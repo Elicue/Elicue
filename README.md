@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Languages and Tools:</h3>
+    <p align="left"> 
+        <i class="devicon-css3-plain-wordmark"></i>
+        <i class="devicon-html5-plain-wordmark"></i>
+        <i class="devicon-javascript-plain"></i>
+        <i class="devicon-php-plain"></i>
+        <i class="devicon-xd-line"></i>
+        <i class="devicon-photoshop-line"></i>
+        <i class="devicon-illustrator-line"></i>
+        <i class="devicon-figma-plain"></i>
+    </p>
