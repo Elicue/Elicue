@@ -1,14 +1,7 @@
 ### <h1 >Hi There <img src="hi.gif" width="30px"></h1>
 
 
-    <p>I'm a 18-year-old Web Development student, & have knowledge in HTML, CSS, PHP, JS and Python.
-        Actually in my second year of college at the IIM Digital School.
-       
-        <h3 align="left">Connect with me:</h3>    
-        <a href="https://www.linkedin.com/in/lucie-ehrsam-4a6348222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucie ehrsam" height="30" width="40" /></a>
-        <a href="https://dribbble.com/_Lucee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="elicue" height="30" width="40" /></a>
-    
-    </p>
+ 
 
 <!--
 **Elicue/Elicue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
