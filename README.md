@@ -47,7 +47,6 @@ I'm a 18-year-old Web Development student, & have knowledge in HTML, CSS, PHP, J
         <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     </div>   
 <br>
-<br>
 
 <h2 align="left">Most used languages : </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elicue&show_icons=true&locale=en&layout=compact" alt="elicue" /></p>
