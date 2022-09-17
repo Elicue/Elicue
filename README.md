@@ -48,6 +48,8 @@ I'm a 18-year-old Web Development student, & have knowledge in HTML, CSS, PHP, J
     </div>   
 <br>
 <br>
+
+<h2 align="left">Most used languages : </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elicue&show_icons=true&locale=en&layout=compact" alt="elicue" /></p>
 
 <!--
