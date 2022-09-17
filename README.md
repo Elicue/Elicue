@@ -19,7 +19,6 @@ I'm a 18-year-old Web Development student, & have knowledge in HTML, CSS, PHP, J
 </div>    
 <br>
 <h2 align="left">Languages and Tools : </h2>
-    <br>    
 <h3>Programming Languages </h3>
 <p>Like Javascript, Php & Python.</p>
 <div align="left" class="web">
