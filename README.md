@@ -2,7 +2,7 @@
 <h1 >Hi There <img src="hi.gif" width="30px"></h1>
 
 
-I'm a 18-year-old Web Development student, & have knowledge in HTML, CSS, PHP, JS and Python.
+I'm a 19-year-old Web Development student, & have knowledge in HTML, CSS, PHP, JS and Python.
         Actually in my second year of college at the IIM Digital School.        
 <br>
 <h2 align="left">About me :</h2>   
