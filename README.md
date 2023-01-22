@@ -2,14 +2,14 @@
 <h1 >Hi There <img src="hi.gif" width="30px"></h1>
 
 
-I'm a 19-year-old Web Development student, & have knowledge in HTML, CSS, PHP, JS and Python.
+I'm a 19-year-old Web Development student, & have knowledge in some programming languages & tools like HTML, SASS, PHP, JS , Python...
         Actually in my second year of college at the IIM Digital School.        
 <br>
 <h2 align="left">About me :</h2>   
 <br>
-- 🌱 I’m currently learning Sass,
+- 🌱 I’m currently learning Gsap,
 <br>
-- 🤔 Looking for motivation to improve my Php,
+- 🤔 Looking for motivation to improve my Javascript,
 <br>       
 <h2 align="left">Connect with me :</h2>  
 <p>With Linkedin & dribble.</p>
@@ -27,18 +27,21 @@ I'm a 19-year-old Web Development student, & have knowledge in HTML, CSS, PHP, J
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     </div>
     <h3>Frontend Development</h3>    
-<p>Like Css & Html.</p>
+<p>Like Css, Html, Vue.js & Tailwind</p>
     <div align="left" class="web">
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     </div>
     <h3>Software</h3>    
-<p>Like Photoshop, Xd, Illustrator & Figma .</p>
+<p>Like Photoshop, Xd, Illustrator, Figma & Framer .</p>
     <div class="crea">           
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+        <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
     </div>   
 <br>
 
