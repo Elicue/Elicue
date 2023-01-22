@@ -3,6 +3,7 @@
 
 
 I'm a 19-year-old Web Development student, & have knowledge in some programming languages & tools like HTML, SASS, PHP, JS , Python...
+<br>
         Actually in my second year of college at the IIM Digital School.        
 <br>
 <h2 align="left">About me :</h2>   
