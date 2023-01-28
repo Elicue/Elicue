@@ -2,7 +2,7 @@
 <h1 >Hi There <img src="hi.gif" width="30px"></h1>
 
 
-I'm a 19-year-old Web Development student, & have knowledge in some programming languages & tools like HTML, SASS, TAILWIND, PHP, JS , Python...
+I'm a 19-year-old Web Development student, & have knowledge in some programming languages & tools like HTML, SASS, Tailwind, PHP, JS , Python...
 <br>
         Actually in my second year of college at the IIM Digital School.        
 <br>
