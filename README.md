@@ -2,7 +2,7 @@
 <h1 >Hi There <img src="hi.gif" width="30px"></h1>
 
 
-I'm a 19-year-old Web Development student, & have knowledge in some programming languages & tools like HTML, SASS, Tailwind, PHP, JS , Python...
+I'm a 19-year-old Web Development student, & have knowledge in some programming languages & tools like HTML, SASS, Tailwind, PHP, JS , Vue.js, Sympfony...
 <br>
         Actually in my second year of college at the IIM Digital School. 
 <br>
@@ -47,6 +47,11 @@ I'm a 19-year-old Web Development student, & have knowledge in some programming 
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+    </div>   
+    <h3>Framework</h3>    
+<p>Like Symfony .</p>
+    <div class="frame">           
+        <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
     </div>   
 <br>
 
