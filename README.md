@@ -17,9 +17,10 @@ I'm a 19-year-old Web Development student, & have knowledge in some programming 
 - 🤔 Looking for motivation to improve my Javascript,
 <br>       
 <h2 align="left">Connect with me :</h2>  
-<p>With Linkedin.</p>
+<p>With Linkedin & Codepen.</p>
 <div>
         <a href="https://www.linkedin.com/in/lucie-ehrsam-4a6348222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucie ehrsam" height="30" width="40" /></a>
+        <a href="https://codepen.io/lucee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lucee" height="30" width="40" /></a>
         
 </div>    
 <br>
