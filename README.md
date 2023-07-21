@@ -12,7 +12,7 @@ I'm a 19-year-old Web Development student, & have knowledge in some programming 
 <br>
 <h2 align="left">About me :</h2>   
 <br>
-- 🌱 I’m currently learning Gsap,
+- 🌱 I’m currently learning React,
 <br>
 - 🤔 Looking for motivation to improve my Javascript,
 <br>       
