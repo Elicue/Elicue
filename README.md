@@ -1,5 +1,5 @@
 
-<h1 >Hi There <img src="hi.gif" width="30px"></h1>
+<h1 > <img src="hi.gif" width="30px">Hi There</h1>
 
 
 I'm a 19-year-old Web Development student, & have knowledge in some programming languages & tools like HTML, SASS, Tailwind, PHP, JS , Vue.js, Sympfony...
